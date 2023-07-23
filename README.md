@@ -37,7 +37,7 @@ Our E-Commerce Web Application offers even more functionalities to enhance the u
 
 **Front-End:** EJS templating engine
 
-**Server:** Node, Express
+**Back-End:** Node, Express
 
 **Database:** MongoDB
 
